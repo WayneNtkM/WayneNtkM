@@ -1,7 +1,6 @@
 ### Hello There! Eu sou o Wayne Nacle
 
-- 🌱 I’m currently JavaScript
-- 📫 How to reach me: Instagram: 
+<a href='https://github.com/WayneNtkM'>
 
 <div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waynentkm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
