@@ -3,8 +3,6 @@
 - 🌱 I’m currently JavaScript
 - 📫 How to reach me: Instagram: 
 
-<di>
-  <a href='https://github.com/WayneNtkM'>
-  <img heigth='180em'src='https://github.readme.stats.vercel.app/api?username=WayneNtkM&include_all_commits-true&count_private-true'>
-  <img heigth='180em'src='https://github.readme.stats.vercel.app/api/top-langs/?username=WayneNtkM'>
-<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=waynentkm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynentkm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
