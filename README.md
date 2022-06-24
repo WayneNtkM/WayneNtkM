@@ -12,6 +12,6 @@
   <img align="center" alt="Wayne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wayne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-    <div style='display: inline_block'>
+    <div>
       <a href='https://www.linkedin.com/in/wayne-nacle-20823a232/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a> 
     <div>
