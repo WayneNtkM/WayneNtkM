@@ -1,4 +1,5 @@
-## Hello There! Eu sou o Wayne Nacle!
-### Estudante fullstack, desenvolvedor frontend e, atualmente, estudando Backend com o Docker, o MySQL, o Express, o Sequelize e o Typescript.
-### Conhecimentos em ReactJS, Redux, ContextAPI, HTML, JavaScript, TypeScript, CSS (Bibliotecas externas e CSS puro).
+## Hello There! I'm Wayne Nacle!
+### Front-end developer current learning Back-end, Docker, MySQL, Express, Sequelize, TypeScript.
+### Front-end Skills: ReactJs, Redux, ContextAPI, JavaScript (ES6), TypeScript, HTML, CSS.
+### Back-end Skills: Docker, MySQL, Express, Sequelize.\
 #### Linkedin: https://www.linkedin.com/in/wayne-takahashi/
