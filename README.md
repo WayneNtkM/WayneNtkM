@@ -1,10 +1,8 @@
-## Hello There! I'm Wayne Nacle!
+# Hello There! I'm Wayne Nacle!
 
-### Front-end developer with backend skills!
+### FullStack Developer!
 
-### Front-end Skills: ReactJs, Redux, ContextAPI, JavaScript (ES6), TypeScript, HTML, CSS.
-
-### Back-end Skills: Docker, MySQL, Express, Sequelize, Node.
+# Skills
 
 ### Hard skills under developent: PostgreSQL, AWS, Python, Next.Js
 
