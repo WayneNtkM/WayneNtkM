@@ -3,8 +3,7 @@
 
 ## 🚀 About me
 
-Full-stack developer passionate about technology, games, and Formula 1. I spend my time creating software and improving the ones I already have done.
-
+Full-stack developer passionate about technology, games, and Formula 1. I spend my time creating software and improving the ones I already have.
 
 ## 🛠 Skills
   
