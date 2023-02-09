@@ -59,12 +59,8 @@ Full-stack developer passionate about technology, games, and Formula 1. I spend 
 
 ## Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynentkm&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynentkm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/waynntkm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waynentkm&show_icons=true&theme=dracula" />
+<a href="https://github.com/wayntkm">
+  <img align="center" width="200px" src="https://github-readme-stats.vercel.app/api?username=waynentkm&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/waynentkm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynentkm&layout=compact" />
