@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Desenvolvedora full-stack
+Desenvolvedor full-stack
 
 
 ## 🛠 Habilidades
