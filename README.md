@@ -1,12 +1,12 @@
-
-# Hello there, eu sou o Wayne! 👋
-
-
-## 🚀 Sobre mim
-Desenvolvedor full-stack
+# Hello there, I'm Wayne! 👋
 
 
-## 🛠 Habilidades
+## 🚀 About me
+
+Full-stack developer passionate about technology, games, and Formula 1. I spend my time creating software and improving the ones I already have done.
+
+
+## 🛠 Skills
   
 ### Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
