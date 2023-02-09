@@ -60,7 +60,7 @@ Full-stack developer passionate about technology, games, and Formula 1. I spend 
 ## Statistics
 
 <a href="https://github.com/waynentkm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynentkm&langs_count=7&theme=dracula&hide_langs_below=1&layout=compact"  heigth="160em" width="420px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynentkm&langs_count=7&theme=dracula&hide_langs_below=1&layout=compact"  heigth="160em" width="440px"/>
 </a>
 
 <a href="https://github.com/waynentkm">
