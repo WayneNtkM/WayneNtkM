@@ -20,6 +20,7 @@ Full-stack developer passionate about technology, games, and Formula 1. I spend 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Databases
 
@@ -41,12 +42,16 @@ Full-stack developer passionate about technology, games, and Formula 1. I spend 
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Mongoose](https://camo.githubusercontent.com/1c4275ec6246aae6b6c7ae5e014242924e2aa8dfe966655e1fabb1bdc6aaa412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f6f73652d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Solid](https://img.shields.io/badge/Solid-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![StyleLint](https://img.shields.io/badge/stylelint-%231A1918.svg?style=for-the-badge&logo=stylelint&logoColor=white)
 
 ### Learning
 
-![next.js](https://img.shields.io/badge/-Next.js-black)
-![tRPC](https://img.shields.io/badge/-tRPC-blue)
-![Mongoose](https://img.shields.io/badge/-Mongoose-green)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2c4f7c?style=for-the-badge&logo=trpc&logoColor=c8c9cb)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-takahashi/)
