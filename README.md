@@ -44,7 +44,9 @@ Full-stack developer passionate about technology, games, and Formula 1. I spend 
 
 ### Learning
 
-tRPC, Mongoose, Next.js
-(no badges for this ones)
+![next.js](https://img.shields.io/badge/-Next.js-black)
+![tRPC](https://img.shields.io/badge/-tRPC-blue)
+![Mongoose](https://img.shields.io/badge/-Mongoose-green)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-takahashi/)
